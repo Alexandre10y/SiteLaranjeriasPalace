@@ -58,7 +58,7 @@ h6,
 }
 
 .back-to-top:hover {
-  background: #85b6cf;
+  background: #7D5D0B;
   color: #fff;
 }
 
@@ -75,7 +75,7 @@ h6,
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #1e4356;
+  background: #7D5D0B;
 }
 
 #header.header-transparent {
@@ -83,7 +83,7 @@ h6,
 }
 
 #header.header-scrolled {
-  background: rgba(30, 67, 86, 0.8);
+  background: #a89a75;
   height: 60px;
 }
 
@@ -159,7 +159,7 @@ h6,
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #a2cce3;
+  color: #a19c8d;
 }
 
 .navbar .dropdown ul {
